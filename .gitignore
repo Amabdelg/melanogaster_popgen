@@ -1,0 +1,20 @@
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.bcf
+*.vcf
+*.vcf.gz
+
+# Temporary files
+*.tmp
+*.log
+*.out
+*.err
+
+# Large analysis outputs
+*.beagle.gz
